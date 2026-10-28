@@ -9,6 +9,13 @@
 | 인원 | 4명 (Front 2 · Back 1 · Lead 1) |
 | 내 역할 | **Frontend** (인증·마이페이지·신고·관리자) + 관리·제재 백엔드 |
 | 원본 레포 | [JephyrWing/project_linkus](https://github.com/JephyrWing/project_linkus) |
+| 시연 영상 | https://youtu.be/drpw6AdxIxw |
+
+## 🎬 시연 영상
+
+[![LinkUs 시연 영상](https://img.youtube.com/vi/drpw6AdxIxw/hqdefault.jpg)](https://youtu.be/drpw6AdxIxw)
+
+▶ https://youtu.be/drpw6AdxIxw · 챕터별 바로가기는 [3.5 시연 영상](#35-시연-영상)
 
 > 팀 프로젝트 원본을 포크한 레포입니다. 전체 구조를 함께 설명하되, **내 담당 항목은 ✅로 표시**했습니다.
 
@@ -18,7 +25,7 @@
 |---|---|---|
 | 01 | 프로젝트 개요 | 기획 배경·문제 정의 · 기존 SNS와 차별점 · 서비스 컨셉 · 목표와 기대효과 |
 | 02 | 시스템 개요 | 요구사항 명세 · 기술 스택 · 인증 · 아키텍처 · API 설계 · DB 구조 |
-| 03 | 서비스 구현 | 서비스 구조 · 핵심 기능 흐름 · 화면별 구현 |
+| 03 | 서비스 구현 | 서비스 구조 · 핵심 기능 흐름 · 화면별 구현 · 시연 영상 |
 | 04 | 검증 | 기능 검증 · 비기능 요구사항 반영 |
 | 05 | 발전방향 및 회고 | 개발 성과 · 트러블슈팅 · 개선 방향 · 배운 점 |
 
@@ -292,6 +299,22 @@ flowchart LR
 | 회원 탈퇴 | 게시글만 남기고 개인정보 삭제, 채팅 IP·내용은 운영 목적으로 유지 |
 | 관리자 API | 회원·게시글·채팅 조회·삭제, 작성자 정보 조회, 금칙어 관리 |
 | 소셜 로그인 | 카카오·구글 OAuth 서비스 연동 |
+
+## 3.5 시연 영상
+
+[![LinkUs 시연 영상](https://img.youtube.com/vi/drpw6AdxIxw/hqdefault.jpg)](https://youtu.be/drpw6AdxIxw)
+
+시간을 누르면 해당 장면부터 재생됩니다.
+
+| 시간 | 장면 |
+|---|---|
+| [0:25](https://youtu.be/drpw6AdxIxw?t=25) | 튜토리얼 |
+| [1:00](https://youtu.be/drpw6AdxIxw?t=60) | 비로그인 상태에서 실시간 채팅 |
+| [1:25](https://youtu.be/drpw6AdxIxw?t=85) | 회원가입 및 로그인 |
+| [3:06](https://youtu.be/drpw6AdxIxw?t=186) | 게시글 남기기 |
+| [4:08](https://youtu.be/drpw6AdxIxw?t=248) | 로드뷰 탐험 |
+| [5:02](https://youtu.be/drpw6AdxIxw?t=302) | 마이페이지 |
+| [7:36](https://youtu.be/drpw6AdxIxw?t=456) | 관리자 페이지 |
 
 ---
 
